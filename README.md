@@ -23,7 +23,7 @@ Internship project analyzing causes of employee resignation and building a predi
 4. Open .pbix in Power BI Desktop.
 
 ## Screenshots
-![Bar Chart](screenshots/1Bar-Chart.png)
-![Line Chart](screenshots/2.-Line-Chart.png)
-![Dashboard](screenshots/3._Dashbord.png)
-![SHAP Plot](screenshots/SHAP.png)
+<image-card alt="Bar Chart" src="screenshots/1. Bar Chart.png" ></image-card>
+<image-card alt="Line Chart" src="screenshots/2. Line Chart.png" ></image-card>
+<image-card alt="Dashboard" src="screenshots/3. Dashbord.png" ></image-card>  <!-- Corrected to match "Dashbord" -->
+<image-card alt="SHAP Plot" src="screenshots/SHAP.png" ></image-card>
