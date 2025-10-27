@@ -25,5 +25,5 @@ Internship project analyzing causes of employee resignation and building a predi
 ## Screenshots
 <image-card alt="Bar Chart" src="screenshots/1. Bar Chart.png" ></image-card>
 <image-card alt="Line Chart" src="screenshots/2. Line Chart.png" ></image-card>
-<image-card alt="Dashboard" src="screenshots/3. Dashbord.png" ></image-card>  <!-- Corrected to match "Dashbord" -->
+<image-card alt="Dashboard" src="screenshots/3. Dashboard.png" ></image-card>
 <image-card alt="SHAP Plot" src="screenshots/SHAP.png" ></image-card>
