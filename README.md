@@ -24,6 +24,6 @@ Internship project analyzing causes of employee resignation and building a predi
 
 ## Screenshots
 ![Bar Chart](screenshots/1Bar-Chart.png)
-![Line Chart](screenshots/2._Line_Chart.png)
+![Line Chart](screenshots/2.-Line-Chart.png)
 ![Dashboard](screenshots/3._Dashbord.png)
 ![SHAP Plot](screenshots/SHAP.png)
